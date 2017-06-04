@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">CalculatorBest</string>
+    <string name="calculator_button_operator_division">\u00f7</string>
+    <string name="calculator_button_operator_multiplication">x</string>
+    <string name="calculator_button_operator_subtraction">-</string>
+    <string name="calculator_button_operator_addition">+</string>
 </resources>
